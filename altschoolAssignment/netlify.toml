@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/ALT1index.html"
+ststus = 200
